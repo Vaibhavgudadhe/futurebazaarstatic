@@ -1,0 +1,2 @@
+# futurebazaarstatic
+futurebazaar static pages
